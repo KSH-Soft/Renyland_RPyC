@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/KSH-Soft/Renyland_RPyC/refs/heads/main/GUI0.PNG" alt="Main Menu" width="400px">
 <img src="https://raw.githubusercontent.com/KSH-Soft/Renyland_RPyC/refs/heads/main/GUI1.PNG" alt="Patch Menu" width="400px">
-<img src="https://raw.githubusercontent.com/KSH-Soft/Renyland_RPyC/refs/heads/main/GUI2.PNG" alt="Settings Menu" width="400px">
+<img src="https://raw.githubusercontent.com/KSH-Soft/Renyland_RPyC/refs/heads/main/GUI3.PNG" alt="Settings Menu" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
